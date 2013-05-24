@@ -9,5 +9,7 @@
     </string>
     <string name="buttonPeriodos">Periodos de la história</string>
     <string name="contentCuriosidades">Curiosidades del pasado</string>
+    <string name="checkBoxUno">New CheckBox</string>
+    <string name="checkBoxDos">YOLO</string>
 
 </resources>
