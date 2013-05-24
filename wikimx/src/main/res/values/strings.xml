@@ -7,5 +7,7 @@
     </string>
     <string name="hello_world" >Hello world!
     </string>
+    <string name="buttonPeriodos">Periodos de la história</string>
+    <string name="contentCuriosidades">Curiosidades del pasado</string>
 
 </resources>
