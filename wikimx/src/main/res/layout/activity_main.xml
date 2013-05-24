@@ -33,4 +33,10 @@
             android:text="@string/checkBoxDos"
             android:id="@+id/checkBoxUNO" android:layout_below="@+id/buttonPeriodos"
             android:layout_alignLeft="@+id/gridMenuPrincipal" android:layout_marginTop="39dp" android:checked="true"/>
+    <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="New RadioButton"
+            android:id="@+id/radioButton" android:layout_below="@+id/checkBoxUNO"
+            android:layout_alignRight="@+id/gridMenuPrincipal"/>
 </RelativeLayout>
