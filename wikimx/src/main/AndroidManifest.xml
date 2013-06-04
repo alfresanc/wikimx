@@ -22,6 +22,25 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <!-- Activity de Atlas-->
+        <activity android:name="com.noosbit.wikimx.AtlasActivity" ></activity>
+
+        <!-- Activity de Bellas Artes-->
+        <activity android:name="com.noosbit.wikimx.BartesActivity" ></activity>
+
+        <!-- Activity de El baúl del wiki-->
+        <activity android:name="com.noosbit.wikimx.BaulActivity" ></activity>
+
+        <!-- Activity de Curiosidades del pasado-->
+        <activity android:name="com.noosbit.wikimx.CuriosidadesActivity" ></activity>
+
+        <!-- Activity de Periodos de la historia -->
+        <activity android:name="com.noosbit.wikimx.PeriodosActivity" ></activity>
+
+        <!-- Activity de Lugares y Rutas-->
+        <activity android:name="com.noosbit.wikimx.LugaresActivity" ></activity>
+
     </application>
 
 </manifest>
