@@ -8,37 +8,37 @@
     <Button
             android:id="@+id/btn_periodos"
             style="@style/DashboardButton"
-            android:drawableTop="@drawable/btn_control"
+            android:drawableTop="@drawable/btn_periodos"
             android:text="Periodos" />
 
     <Button
             android:id="@+id/btn_curiosidades"
             style="@style/DashboardButton"
-            android:drawableTop="@drawable/btn_globos"
+            android:drawableTop="@drawable/btn_curiosidades"
             android:text="Curiosidades" />
 
     <Button
             android:id="@+id/btn_bartes"
             style="@style/DashboardButton"
-            android:drawableTop="@drawable/btn_platano"
+            android:drawableTop="@drawable/btn_bartes"
             android:text="Bellas Artes" />
 
     <Button
             android:id="@+id/btn_baul"
             style="@style/DashboardButton"
-            android:drawableTop="@drawable/btn_libro"
+            android:drawableTop="@drawable/btn_baul"
             android:text="El Baúl del Wiki" />
 
     <Button
             android:id="@+id/btn_atlas"
             style="@style/DashboardButton"
-            android:drawableTop="@drawable/btn_zanahoria"
+            android:drawableTop="@drawable/btn_atlas"
             android:text="Atlas" />
 
     <Button
             android:id="@+id/btn_lugares"
             style="@style/DashboardButton"
-            android:drawableTop="@drawable/btn_mamila"
+            android:drawableTop="@drawable/btn_lugares"
             android:text="lugares y Rutas" />
 
 </com.noosbit.wikimx.DashboardLayout>
