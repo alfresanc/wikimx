@@ -21,10 +21,9 @@ public final class R {
         public static final int btn_baul=0x7f020003;
         public static final int btn_curiosidades=0x7f020004;
         public static final int btn_lugares=0x7f020005;
-        public static final int btn_peiodoscopia=0x7f020006;
-        public static final int btn_periodos=0x7f020007;
-        public static final int ic_launcher=0x7f020008;
-        public static final int noosbit_logo=0x7f020009;
+        public static final int btn_periodos=0x7f020006;
+        public static final int ic_launcher=0x7f020007;
+        public static final int navigation_bar=0x7f020008;
     }
     public static final class id {
         public static final int action_settings=0x7f080007;
@@ -44,10 +43,9 @@ public final class R {
         public static final int baul_layout=0x7f030004;
         public static final int curiosidades_layout=0x7f030005;
         public static final int dashboard_layout=0x7f030006;
-        public static final int footer_layout=0x7f030007;
-        public static final int fragment_layout=0x7f030008;
-        public static final int lugares_layout=0x7f030009;
-        public static final int periodos_layout=0x7f03000a;
+        public static final int fragment_layout=0x7f030007;
+        public static final int lugares_layout=0x7f030008;
+        public static final int periodos_layout=0x7f030009;
     }
     public static final class menu {
         public static final int main=0x7f070000;
@@ -55,6 +53,11 @@ public final class R {
     public static final class string {
         public static final int action_settings=0x7f050000;
         public static final int app_name=0x7f050001;
+        public static final int buttonPeriodos=0x7f050002;
+        public static final int checkBoxDos=0x7f050003;
+        public static final int checkBoxUno=0x7f050004;
+        public static final int contentCuriosidades=0x7f050005;
+        public static final int hello_world=0x7f050006;
     }
     public static final class style {
         public static final int ActionBarCompat=0x7f060000;
@@ -63,6 +66,5 @@ public final class R {
         public static final int AppBaseTheme=0x7f060001;
         public static final int AppTheme=0x7f060002;
         public static final int DashboardButton=0x7f060003;
-        public static final int FooterBar=0x7f060004;
     }
 }

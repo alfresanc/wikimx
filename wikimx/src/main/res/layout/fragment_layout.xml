@@ -3,42 +3,36 @@
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
         android:layout_weight="1"
-        android:background="#ff11284a" >
+        android:background="#FFFFFF" >
 
     <Button
             android:id="@+id/btn_periodos"
             style="@style/DashboardButton"
-            android:drawableTop="@drawable/btn_periodos"
-            android:text="Periodos" />
+            android:drawableTop="@drawable/btn_periodos"/>
 
     <Button
             android:id="@+id/btn_curiosidades"
             style="@style/DashboardButton"
-            android:drawableTop="@drawable/btn_curiosidades"
-            android:text="Curiosidades" />
+            android:drawableTop="@drawable/btn_curiosidades"/>
 
     <Button
             android:id="@+id/btn_bartes"
             style="@style/DashboardButton"
-            android:drawableTop="@drawable/btn_bartes"
-            android:text="Bellas Artes" />
+            android:drawableTop="@drawable/btn_bartes"/>
 
     <Button
             android:id="@+id/btn_baul"
             style="@style/DashboardButton"
-            android:drawableTop="@drawable/btn_baul"
-            android:text="El Baúl del Wiki" />
+            android:drawableTop="@drawable/btn_baul"/>
 
     <Button
             android:id="@+id/btn_atlas"
             style="@style/DashboardButton"
-            android:drawableTop="@drawable/btn_atlas"
-            android:text="Atlas" />
+            android:drawableTop="@drawable/btn_atlas"/>
 
     <Button
             android:id="@+id/btn_lugares"
             style="@style/DashboardButton"
-            android:drawableTop="@drawable/btn_lugares"
-            android:text="lugares y Rutas" />
+            android:drawableTop="@drawable/btn_lugares"/>
 
 </com.noosbit.wikimx.DashboardLayout>

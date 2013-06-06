@@ -5,13 +5,11 @@
               android:orientation="vertical"
               android:layout_width="fill_parent"
               android:layout_height="fill_parent">
+
 <!-- Enlazando la Action Bar -->
 <include layout="@layout/actionbar_layout"/>
 
 <!--  Enlazando el Fragmented dashboard -->
 <include layout="@layout/fragment_layout"/>
-
-<!--  Enlazadno el Footer -->
-<include layout="@layout/footer_layout"/>
 
 </LinearLayout>
