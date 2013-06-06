@@ -1,0 +1,38 @@
+<com.noosbit.wikimx.DashboardLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:background="#FFFFFF" >
+
+    <Button
+            android:id="@+id/btn_periodos"
+            style="@style/DashboardButton"
+            android:drawableTop="@drawable/btn_periodos"/>
+
+    <Button
+            android:id="@+id/btn_curiosidades"
+            style="@style/DashboardButton"
+            android:drawableTop="@drawable/btn_curiosidades"/>
+
+    <Button
+            android:id="@+id/btn_bartes"
+            style="@style/DashboardButton"
+            android:drawableTop="@drawable/btn_bartes"/>
+
+    <Button
+            android:id="@+id/btn_baul"
+            style="@style/DashboardButton"
+            android:drawableTop="@drawable/btn_baul"/>
+
+    <Button
+            android:id="@+id/btn_atlas"
+            style="@style/DashboardButton"
+            android:drawableTop="@drawable/btn_atlas"/>
+
+    <Button
+            android:id="@+id/btn_lugares"
+            style="@style/DashboardButton"
+            android:drawableTop="@drawable/btn_lugares"/>
+
+</com.noosbit.wikimx.DashboardLayout>
