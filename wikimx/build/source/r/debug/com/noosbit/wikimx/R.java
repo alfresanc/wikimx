@@ -26,7 +26,7 @@ public final class R {
         public static final int navigation_bar=0x7f020008;
     }
     public static final class id {
-        public static final int action_settings=0x7f080007;
+        public static final int action_settings=0x7f080008;
         public static final int btn_atlas=0x7f080005;
         public static final int btn_bartes=0x7f080003;
         public static final int btn_baul=0x7f080004;
@@ -34,6 +34,7 @@ public final class R {
         public static final int btn_lugares=0x7f080006;
         public static final int btn_periodos=0x7f080001;
         public static final int home_root=0x7f080000;
+        public static final int listView=0x7f080007;
     }
     public static final class layout {
         public static final int actionbar_layout=0x7f030000;

@@ -1,11 +1,9 @@
 package com.noosbit.wikimx;
-
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-
 
 public class MainActivity extends Activity {
 
@@ -17,24 +15,23 @@ public class MainActivity extends Activity {
         /**
          * Creación de las instancias de cada botón
          * */
-        Button btn_newsfeed = (Button) findViewById(R.id.btn_periodos);
+        Button btn_periodos = (Button) findViewById(R.id.btn_periodos);
 
-        Button btn_friends = (Button) findViewById(R.id.btn_curiosidades);
+        Button btn_curiosidades = (Button) findViewById(R.id.btn_curiosidades);
 
-        Button btn_messages = (Button) findViewById(R.id.btn_bartes);
+        Button btn_bartes = (Button) findViewById(R.id.btn_bartes);
 
-        Button btn_places = (Button) findViewById(R.id.btn_baul);
+        Button btn_baul = (Button) findViewById(R.id.btn_baul);
 
-        Button btn_events = (Button) findViewById(R.id.btn_atlas);
+        Button btn_atlas = (Button) findViewById(R.id.btn_atlas);
 
-        Button btn_photos = (Button) findViewById(R.id.btn_lugares);
+        Button btn_lugares = (Button) findViewById(R.id.btn_lugares);
 
         /**
          * Manejo de eventos de los botónes
          * */
 
-        btn_newsfeed.setOnClickListener(new View.OnClickListener() {
-
+        btn_periodos.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 // Lanzar pantalla
@@ -43,7 +40,7 @@ public class MainActivity extends Activity {
             }
         });
 
-        btn_friends.setOnClickListener(new View.OnClickListener() {
+        btn_curiosidades.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View view) {
@@ -53,7 +50,7 @@ public class MainActivity extends Activity {
             }
         });
 
-        btn_messages.setOnClickListener(new View.OnClickListener() {
+        btn_bartes.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View view) {
@@ -63,7 +60,7 @@ public class MainActivity extends Activity {
             }
         });
 
-        btn_places.setOnClickListener(new View.OnClickListener() {
+        btn_baul.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View view) {
@@ -73,7 +70,7 @@ public class MainActivity extends Activity {
             }
         });
 
-        btn_events.setOnClickListener(new View.OnClickListener() {
+        btn_atlas.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View view) {
@@ -83,7 +80,7 @@ public class MainActivity extends Activity {
             }
         });
 
-        btn_photos.setOnClickListener(new View.OnClickListener() {
+        btn_lugares.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View view) {
