@@ -3,7 +3,7 @@
               xmlns:tools="http://schemas.android.com/tools"
               android:layout_width="match_parent"
               android:layout_height="match_parent"
-              android:background="#f8f9fe"
+              android:background="#454545"
               android:orientation="vertical" >
 
     <include layout="@layout/actionbar_layout" />
@@ -11,16 +11,7 @@
     <LinearLayout
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            tools:ignore="Orientation">
-
-        <TextView
-                android:layout_width="fill_parent"
-                android:layout_height="wrap_content"
-                android:padding="15dip"
-                android:text="Periodos"
-                android:textColor="#ff29549f"
-                android:textSize="25sp"
-                android:textStyle="bold" />
+            ><!-- tools:ignore="Orientation"-->
 
         <ListView
                 android:layout_width="fill_parent"
