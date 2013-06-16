@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/wikimx/build/source/buildConfig/buildConfig.iml" filepath="$PROJECT_DIR$/wikimx/build/source/buildConfig/buildConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wikimx/src/main/main.iml" filepath="$PROJECT_DIR$/wikimx/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wikimx/build/source/r/r.iml" filepath="$PROJECT_DIR$/wikimx/build/source/r/r.iml" />
       <module fileurl="file://$PROJECT_DIR$/wikimx.iml" filepath="$PROJECT_DIR$/wikimx.iml" />
       <module fileurl="file://$PROJECT_DIR$/wikimx-wikimx.iml" filepath="$PROJECT_DIR$/wikimx-wikimx.iml" />
     </modules>
