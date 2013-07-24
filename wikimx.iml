@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <module external.system.id="GRADLE" type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="android-gradle" name="Android-Gradle">
@@ -7,6 +8,9 @@
       </configuration>
     </facet>
   </component>
+=======
+<module external.linked.project.path="$MODULE_DIR$/build.gradle" external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+>>>>>>> 661b5cbb8c583db90be05589d8d86eb86d54e51c
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
