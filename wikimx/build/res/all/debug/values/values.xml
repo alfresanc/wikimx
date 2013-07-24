@@ -6,11 +6,6 @@
 
     <string name="action_settings">Settings</string>
     <string name="app_name">Wiki México</string>
-    <string name="buttonPeriodos">Periodos de la história</string>
-    <string name="checkBoxDos">YOLO</string>
-    <string name="checkBoxUno">New CheckBox</string>
-    <string name="contentCuriosidades">Curiosidades del pasado</string>
-    <string name="hello_world">Hello world!</string>
 
     <style name="ActionBarCompat">
         <item name="android:layout_width">fill_parent</item>

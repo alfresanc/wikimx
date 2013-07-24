@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/learanzeta/Documents/wikimx/wikimx/src/main/res" >
+            <file
+                name="actionbar_background"
+                path="/Users/learanzeta/Documents/wikimx/wikimx/src/main/res/drawable-hdpi/actionbar_background.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_atlas"
+                path="/Users/learanzeta/Documents/wikimx/wikimx/src/main/res/drawable-hdpi/btn_atlas.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_bartes"
+                path="/Users/learanzeta/Documents/wikimx/wikimx/src/main/res/drawable-hdpi/btn_bartes.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_baul"
+                path="/Users/learanzeta/Documents/wikimx/wikimx/src/main/res/drawable-hdpi/btn_baul.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_curiosidades"
+                path="/Users/learanzeta/Documents/wikimx/wikimx/src/main/res/drawable-hdpi/btn_curiosidades.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_lugares"
+                path="/Users/learanzeta/Documents/wikimx/wikimx/src/main/res/drawable-hdpi/btn_lugares.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_periodos"
+                path="/Users/learanzeta/Documents/wikimx/wikimx/src/main/res/drawable-hdpi/btn_periodos.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/learanzeta/Documents/wikimx/wikimx/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="navigation_bar"
+                path="/Users/learanzeta/Documents/wikimx/wikimx/src/main/res/drawable-hdpi/navigation_bar.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/learanzeta/Documents/wikimx/wikimx/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/learanzeta/Documents/wikimx/wikimx/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/learanzeta/Documents/wikimx/wikimx/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="actionbar_layout"
+                path="/Users/learanzeta/Documents/wikimx/wikimx/src/main/res/layout/actionbar_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main"
+                path="/Users/learanzeta/Documents/wikimx/wikimx/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="atlas_layout"
+                path="/Users/learanzeta/Documents/wikimx/wikimx/src/main/res/layout/atlas_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="bartes_layout"
+                path="/Users/learanzeta/Documents/wikimx/wikimx/src/main/res/layout/bartes_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="baul_layout"
+                path="/Users/learanzeta/Documents/wikimx/wikimx/src/main/res/layout/baul_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="curiosidades_layout"
+                path="/Users/learanzeta/Documents/wikimx/wikimx/src/main/res/layout/curiosidades_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="dashboard_layout"
+                path="/Users/learanzeta/Documents/wikimx/wikimx/src/main/res/layout/dashboard_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_layout"
+                path="/Users/learanzeta/Documents/wikimx/wikimx/src/main/res/layout/fragment_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="lugares_layout"
+                path="/Users/learanzeta/Documents/wikimx/wikimx/src/main/res/layout/lugares_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="periodos_layout"
+                path="/Users/learanzeta/Documents/wikimx/wikimx/src/main/res/layout/periodos_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="/Users/learanzeta/Documents/wikimx/wikimx/src/main/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/learanzeta/Documents/wikimx/wikimx/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/learanzeta/Documents/wikimx/wikimx/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="app_name" >Wiki México
+                </string>
+            </file>
+            <file
+                path="/Users/learanzeta/Documents/wikimx/wikimx/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" />
+
+                <style name="ActionBarCompat" >
+                    <item name="android:layout_width">
+fill_parent
+                    </item>
+                    <item name="android:layout_height">
+50dp
+                    </item>
+                    <item name="android:orientation">
+horizontal
+                    </item>
+                    <item name="android:background">
+@drawable/actionbar_background
+                    </item>
+                </style>
+
+                <style name="DashboardButton" >
+                    <item name="android:layout_gravity">
+center_vertical
+                    </item>
+                    <item name="android:layout_width">
+wrap_content
+                    </item>
+                    <item name="android:layout_height">
+wrap_content
+                    </item>
+                    <item name="android:gravity">
+center_horizontal
+                    </item>
+                    <item name="android:drawablePadding">
+2dp
+                    </item>
+                    <item name="android:textSize">
+16dp
+                    </item>
+                    <item name="android:textStyle">
+bold
+                    </item>
+                    <item name="android:textColor">
+#ff29549f
+                    </item>
+                    <item name="android:background">
+@null
+                    </item>
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" />
+            </file>
+            <file
+                path="/Users/learanzeta/Documents/wikimx/wikimx/src/main/res/values-sw600dp/dimens.xml"
+                qualifiers="sw600dp" />
+            <file
+                path="/Users/learanzeta/Documents/wikimx/wikimx/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/learanzeta/Documents/wikimx/wikimx/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="/Users/learanzeta/Documents/wikimx/wikimx/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/learanzeta/Documents/wikimx/wikimx/src/debug/res" />
+    </dataSet>
+
+</merger>

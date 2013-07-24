@@ -54,11 +54,6 @@ public final class R {
     public static final class string {
         public static final int action_settings=0x7f050000;
         public static final int app_name=0x7f050001;
-        public static final int buttonPeriodos=0x7f050002;
-        public static final int checkBoxDos=0x7f050003;
-        public static final int checkBoxUno=0x7f050004;
-        public static final int contentCuriosidades=0x7f050005;
-        public static final int hello_world=0x7f050006;
     }
     public static final class style {
         public static final int ActionBarCompat=0x7f060000;
